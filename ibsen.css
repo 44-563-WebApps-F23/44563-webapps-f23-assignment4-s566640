@@ -24,11 +24,13 @@ background-color:rgb(224, 221, 221);
     text-shadow:2px 2px 4px #6eb97d; 
     border:3px solid blue;
     cursor: pointer;  
+    filter: blur(1px);
 }
 .HEDDA:hover {
     text-shadow:2px 2px 4px rgb(95, 148, 152); 
     border: 3px solid #FF5733;
     cursor: pointer; 
+    filter: blur(1px);
 }
 
 table{
